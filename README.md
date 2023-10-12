@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains jupyter notebook code for a project focused on credit default prediction which is a critical task in the financial industry, where the goal is to predict whether a borrower will default on a loan.
+This repository contains jupyter notebook code and a flask application developed for a project focused on credit default prediction which is a critical task in the financial industry, where the goal is to predict whether a borrower will default on a loan.
 
 ## Project Description
 
